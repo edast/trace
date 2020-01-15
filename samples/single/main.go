@@ -6,7 +6,7 @@ import (
 	"os"
 	"runtime/trace"
 
-	"github.com/edast/tracer/utils"
+	"github.com/edast/trace/utils"
 )
 
 // pass filename as first argument

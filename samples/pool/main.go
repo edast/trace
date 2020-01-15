@@ -8,7 +8,7 @@ import (
 	"runtime/trace"
 	"sync"
 
-	"github.com/edast/tracer/utils"
+	"github.com/edast/trace/utils"
 )
 
 // pass filename as first argument
